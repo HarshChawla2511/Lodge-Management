@@ -1,2 +1,2 @@
 # Database Management System Mini Project 
-## Hotel Management System 
+## Hotel(Lodge) Management System 
